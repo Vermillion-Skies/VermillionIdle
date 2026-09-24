@@ -36,6 +36,11 @@ Buildings
         desc:The first building, the start of it all
         on tick:yield 0.1 dollar
         cost:1 dollar
+    *b2
+        name:Building 2
+        desc:The second building, makes more money than the first
+        on tick:yield 1 dollar
+        cost:10 dollar
 
 Upgrades
     *b1u1
