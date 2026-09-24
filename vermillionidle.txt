@@ -1,5 +1,5 @@
 Let's make a game!
-    name:GloriaIdle
+    name:VermillionIdle
     by:VermillionSkies
     desc:Random ass test idle game, because I got bored
     created:24/09/2026
