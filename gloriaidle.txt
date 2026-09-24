@@ -1,0 +1,7 @@
+Let's make a game!
+    name:GloriaIdle
+    by:VermillionSkies
+    desc:Random ass test idle game, because I got bored
+    created:24/09/2026
+    updated:24/09/2026
+    version:0.0.1
