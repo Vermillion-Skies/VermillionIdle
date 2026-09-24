@@ -9,7 +9,7 @@ Let's make a game!
 Settings
     //background:sources/images/background.jpg
     //tiling background isn't used
-    building cost increase:105%
+    building cost increase:150%
     building cost refund:75%
     //spritesheet isn't used
     //stylesheet:sources/style/style.txt
