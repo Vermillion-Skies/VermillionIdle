@@ -25,7 +25,7 @@ Buttons
 
 Resources
     *dollar
-        name:Dollar
+        name:Dollars
         desc:Your money. Spend it, save it, burn it, whatever!
         show earned
         show max
