@@ -37,3 +37,10 @@ Buildings
         desc:The first building, the start of it all
         on tick:yield 1 dollar
         cost:1 dollar
+
+Upgrades
+    *b1u1
+        name:Upgrade building 1
+        desc:Double effectiveness of the first building
+        passive:multiply yield of b1 by 2
+        cost:10 dollar
