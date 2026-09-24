@@ -44,10 +44,15 @@ Buildings
 
 Upgrades
     *b1u1
-        name:Upgrade building 1
-        desc:Double effectiveness of the first building
+        name:Building 1 upgrade I
+        desc:Double production of building 1
         passive:multiply yield of b1 by 2
         cost:10 dollar
+    *b1u2
+        name:Building 1 upgrade II
+        desc:Double production of building 1
+        passive:multiply yield of b1 by 2
+        cost:100 dollar
 
 Achievements
     *b0a1
