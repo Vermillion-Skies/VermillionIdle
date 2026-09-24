@@ -30,3 +30,10 @@ Resources
         can be negative
         show earned
         show max
+
+Buildings
+    *b1
+        name:Building 1
+        desc:The first building, the start of it all
+        on tick:yield 1 dollar
+        cost:1 dollar
