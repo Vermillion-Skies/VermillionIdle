@@ -5,3 +5,13 @@ Let's make a game!
     created:24/09/2026
     updated:24/09/2026
     version:0.0.1
+
+Settings
+    //background:sources/images/background.jpg
+    //tiling background isn't used
+    building cost increase:105%
+    building cost refund:75%
+    //spritesheet isn't used
+    //stylesheet:sources/style/style.txt
+    //no particles isn't used
+    //no bulk particles isn't used
