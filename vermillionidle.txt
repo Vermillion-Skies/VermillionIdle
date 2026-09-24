@@ -44,3 +44,9 @@ Upgrades
         desc:Double effectiveness of the first building
         passive:multiply yield of b1 by 2
         cost:10 dollar
+
+Achievements
+    *b0a1
+        name:Damn, ten clicks
+        desc:Nice.
+        req:10 button:clicks
