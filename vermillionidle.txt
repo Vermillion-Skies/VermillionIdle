@@ -27,7 +27,6 @@ Resources
     *dollar
         name:Dollar
         desc:Your money. Spend it, save it, burn it, whatever!
-        can be negative
         show earned
         show max
 
