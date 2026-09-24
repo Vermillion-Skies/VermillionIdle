@@ -4,7 +4,7 @@ Let's make a game!
     desc:Random ass test idle game, because I got bored
     created:24/09/2026
     updated:24/09/2026
-    version:0.0.1
+    version:0.0.0
 
 Settings
     //background:sources/images/background.jpg
@@ -15,3 +15,10 @@ Settings
     //stylesheet:sources/style/style.txt
     //no particles isn't used
     //no bulk particles isn't used
+
+Buttons
+    *button
+        name:The Button
+        desc:The thing you click. Don't you want to?
+        on click:yield 1 dollar
+        show clicks
