@@ -32,12 +32,12 @@ Resources
 
 Buildings
     *b1
-        name:Job
+        name:Minimum Wage Job
         desc:Workin' 9-to-5, making absolutely nothing
         on tick:yield 0.1 dollar
         cost:1 dollar
     *b2
-        name:b2
+        name:
         desc:The second building, makes more money than the first
         on tick:yield 1 dollar
         cost:10 dollar
