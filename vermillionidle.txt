@@ -64,6 +64,12 @@ Upgrades
         desc:You own the joint now, congrats
         passive:multiply yield of b1 by 10
         cost:10000 dollar
+    //b2 (rideshare) upgrades
+    *b2u1
+        name:Fancy Seats I
+        desc:Add good cushioned seats to your car, increasing how much people will tip
+        passive:multiply yield of b2 by 2
+        cost:100 dollar
 
 Achievements
     *b0a1
