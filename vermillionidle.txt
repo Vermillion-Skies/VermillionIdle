@@ -43,6 +43,7 @@ Buildings
         cost:10 dollar
 
 Upgrades
+    //b1 (Min. wage job) upgrades
     *b1u1
         name:Promotion I
         desc:Make more money at your job
@@ -58,6 +59,11 @@ Upgrades
         desc:You're now a manager! Good for you.
         passive:multiply yield of b1 by 2
         cost:1000 dollar
+    *b1u4
+        name:Max Promotion
+        desc:You own the joint now, congrats
+        passive:multiply yield of b1 by 10
+        cost:10000 dollar
 
 Achievements
     *b0a1
