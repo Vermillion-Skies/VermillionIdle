@@ -32,25 +32,25 @@ Resources
 
 Buildings
     *b1
-        name:Building 1
-        desc:The first building, the start of it all
+        name:Job
+        desc:Workin' 9-to-5, making absolutely nothing
         on tick:yield 0.1 dollar
         cost:1 dollar
     *b2
-        name:Building 2
+        name:b2
         desc:The second building, makes more money than the first
         on tick:yield 1 dollar
         cost:10 dollar
 
 Upgrades
     *b1u1
-        name:Building 1 upgrade I
-        desc:Double production of building 1
+        name:Promotion I
+        desc:Make more money at your job
         passive:multiply yield of b1 by 2
         cost:10 dollar
     *b1u2
-        name:Building 1 upgrade II
-        desc:Double production of building 1
+        name:Promotion II
+        desc:Make even more money at your job
         passive:multiply yield of b1 by 2
         cost:100 dollar
 
