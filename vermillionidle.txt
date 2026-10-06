@@ -4,7 +4,7 @@ Let's make a game!
     desc:Random ass test idle game, because I got bored
     created:24/09/2026
     updated:24/09/2026
-    version:0.0.0
+    version:0.0.1
 
 Settings
     //background:sources/images/background.jpg
