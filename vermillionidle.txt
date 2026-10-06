@@ -37,8 +37,8 @@ Buildings
         on tick:yield 0.1 dollar
         cost:1 dollar
     *b2
-        name:
-        desc:The second building, makes more money than the first
+        name:Rideshare
+        desc:Drive people around for money
         on tick:yield 1 dollar
         cost:10 dollar
 
