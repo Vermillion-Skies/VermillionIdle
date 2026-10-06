@@ -53,6 +53,11 @@ Upgrades
         desc:Make even more money at your job
         passive:multiply yield of b1 by 2
         cost:100 dollar
+    *b1u3
+        name:Promotion III
+        desc:You're now a manager! Good for you.
+        passive:multiply yield of b1 by 2
+        cost:1000 dollar
 
 Achievements
     *b0a1
