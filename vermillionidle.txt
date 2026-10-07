@@ -85,6 +85,7 @@ Upgrades
         desc:Buy a fancy-ass new car, fully upgraded too
         passive:multiply yield of b2 by 10
         cost:100000 dollar
+    //b3 (tbd) upgrades
 
 Achievements
     *b0a1
