@@ -70,6 +70,21 @@ Upgrades
         desc:Add good cushioned seats to your car, increasing how much people will tip
         passive:multiply yield of b2 by 2
         cost:100 dollar
+    *b2u2
+        name:Fancy Seats II
+        desc:Add even better cushioned seats to your car
+        passive:multiply yield of b2 by 2
+        cost:1000 dollar
+    *b2u3
+        name:Fancy Seats III
+        desc:Add the best cushioned seats on the market
+        passive:multiply yield of b2 by 2
+        cost:10000 dollar
+    *b2u4
+        name:New car
+        desc:Buy a fancy-ass new car, fully upgraded too
+        passive:multiply yield of b2 by 10
+        cost:100000 dollar
 
 Achievements
     *b0a1
